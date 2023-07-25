@@ -1,0 +1,22 @@
+{
+    "sites": [
+      {
+        "name": "Yapay Zeka Sitesi 1",
+        "url": "https://www.example1.com",
+        "description": "Açıklama 1",
+        "category": "category1"
+      },
+      {
+        "name": "Yapay Zeka Sitesi 2",
+        "url": "https://www.example2.com",
+        "description": "Açıklama 2",
+        "category": "category2"
+      },
+      {
+        "name": "Yapay Zeka Sitesi 3",
+        "url": "https://www.example3.com",
+        "description": "Açıklama 3",
+        "category": "category3"
+      }
+    ]
+  }
